@@ -50,5 +50,14 @@
         End Set
     End Property
 
+    Private mAutor As String
+    Public Property Autor() As String
+        Get
+            Return mAutor
+        End Get
+        Set(ByVal value As String)
+            mAutor = value
+        End Set
+    End Property
 
 End Class
