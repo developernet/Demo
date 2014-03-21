@@ -11,7 +11,7 @@ Public Class Form1
             .Lado1 = 5
             .Lado2 = 7
             .Lado3 = 8
-            .Autor = "RONALD NOE SAAVEDRA BANCES - DEVELOPER NET"
+            .Autor = "RONALD NOE SAAVEDRA BANCES"
         End With
 
         Dim oBRTriangulo As New BRTriangulo
